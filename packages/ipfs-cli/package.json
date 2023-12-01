@@ -105,7 +105,7 @@
     "@types/progress": "^2.0.3",
     "@types/rimraf": "^3.0.1",
     "@types/yargs": "^17.0.10",
-    "aegir": "^37.0.11",
+    "aegir": "^40.0.0",
     "ipfs-repo": "^15.0.3",
     "it-all": "^1.0.4",
     "it-first": "^1.0.4",
@@ -114,7 +114,7 @@
     "nanoid": "^4.0.0",
     "ncp": "^2.0.0",
     "pako": "^2.0.4",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.0",
     "sinon": "^14.0.0",
     "string-argv": "^0.3.1",
     "temp-write": "^5.0.0"
