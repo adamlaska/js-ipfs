@@ -163,7 +163,7 @@
   },
   "devDependencies": {
     "@web-std/file": "^3.0.2",
-    "aegir": "^37.0.11"
+    "aegir": "^42.0.1"
   },
   "browser": {
     "fs": false
