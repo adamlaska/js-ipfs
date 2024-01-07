@@ -117,7 +117,7 @@
     "uint8arrays": "^3.0.0"
   },
   "devDependencies": {
-    "aegir": "^37.0.11",
+    "aegir": "^42.0.1",
     "ipfs-core-utils": "^0.16.1"
   }
 }
