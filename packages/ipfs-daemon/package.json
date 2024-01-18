@@ -75,7 +75,7 @@
     "libp2p": "^0.39.2"
   },
   "devDependencies": {
-    "aegir": "^37.0.11",
+    "aegir": "^40.0.4",
     "node-fetch": "^3.2.3",
     "ws": "^8.5.0"
   },
