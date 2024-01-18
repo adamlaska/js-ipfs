@@ -88,7 +88,7 @@
     "ws": "^8.5.0"
   },
   "devDependencies": {
-    "aegir": "^37.0.11",
+    "aegir": "^40.0.4",
     "it-all": "^1.0.4",
     "protobufjs-cli": "^1.0.0",
     "sinon": "^14.0.0"
