@@ -151,7 +151,7 @@
     "@types/dlv": "^1.1.2",
     "@types/pako": "^2.0.0",
     "@types/rimraf": "^3.0.1",
-    "aegir": "^37.0.11",
+    "aegir": "^44.1.1",
     "blockstore-datastore-adapter": "^3.0.0",
     "delay": "^5.0.0",
     "go-ipfs": "^0.12.1",
