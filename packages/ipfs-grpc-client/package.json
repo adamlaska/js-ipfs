@@ -91,7 +91,7 @@
     "aegir": "^37.11.0",
     "it-all": "^2.0.0",
     "protobufjs-cli": "^1.0.0",
-    "sinon": "^15.0.1"
+    "sinon": "^19.0.0"
   },
   "browser": {
     "./src/grpc/transport.js": "./src/grpc/transport.browser.js",
