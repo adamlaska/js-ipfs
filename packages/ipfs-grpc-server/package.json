@@ -76,14 +76,14 @@
     "it-peekable": "^2.0.0",
     "it-pipe": "^2.0.3",
     "it-pushable": "^3.0.0",
-    "nanoid": "^4.0.0",
+    "nanoid": "^5.0.9",
     "protobufjs": "^7.0.0",
     "uint8arrays": "^4.0.2",
     "ws": "^8.5.0"
   },
   "devDependencies": {
     "@types/ws": "^8.5.3",
-    "aegir": "^37.11.0",
+    "aegir": "^44.1.1",
     "ipfs-core": "^0.18.1",
     "it-all": "^2.0.0",
     "it-drain": "^2.0.0",
