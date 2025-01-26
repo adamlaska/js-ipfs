@@ -65,7 +65,7 @@
   "dependencies": {
     "@libp2p/logger": "^2.0.5",
     "@libp2p/webrtc-star": "^6.0.0",
-    "@mapbox/node-pre-gyp": "^1.0.5",
+    "@mapbox/node-pre-gyp": "^2.0.0",
     "ipfs-core": "^0.18.1",
     "ipfs-core-types": "^0.14.1",
     "ipfs-grpc-server": "^0.12.1",
@@ -75,7 +75,7 @@
     "libp2p": "^0.42.0"
   },
   "devDependencies": {
-    "aegir": "^37.11.0",
+    "aegir": "^45.0.9",
     "node-fetch": "^3.2.3",
     "ws": "^8.5.0"
   },
