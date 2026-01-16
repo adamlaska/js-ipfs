@@ -141,7 +141,7 @@
   },
   "dependencies": {
     "@libp2p/logger": "^2.0.5",
-    "@multiformats/multiaddr": "^11.1.5",
+    "@multiformats/multiaddr": "^12.1.10",
     "@multiformats/multiaddr-to-uri": "^9.0.1",
     "any-signal": "^3.0.0",
     "blob-to-it": "^2.0.0",
@@ -163,7 +163,7 @@
   },
   "devDependencies": {
     "@web-std/file": "^3.0.2",
-    "aegir": "^37.11.0"
+    "aegir": "^41.3.5"
   },
   "browser": {
     "fs": false
