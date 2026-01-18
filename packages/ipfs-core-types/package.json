@@ -52,13 +52,13 @@
     "@libp2p/interface-peer-id": "^2.0.0",
     "@libp2p/interface-peer-info": "^1.0.2",
     "@libp2p/interface-pubsub": "^3.0.0",
-    "@multiformats/multiaddr": "^11.1.5",
+    "@multiformats/multiaddr": "^12.1.10",
     "@types/node": "^18.0.0",
     "interface-datastore": "^7.0.0",
     "ipfs-unixfs": "^9.0.0",
     "multiformats": "^11.0.0"
   },
   "devDependencies": {
-    "aegir": "^37.11.0"
+    "aegir": "^41.3.5"
   }
 }
